@@ -1,0 +1,8 @@
+---
+layout: post
+title: Made our first step !
+excerpt: With more than 30 years of invaluable experience in engineering and manufacturing industries...
+tags: Corvid, First   
+---
+
+With more than 30 years of invaluable experience in engineering and manufacturing industries and nearly 15 years of software development, we decided to start Corvid Systems.

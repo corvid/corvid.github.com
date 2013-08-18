@@ -1,0 +1,10 @@
+---
+layout: master
+title: Home
+---
+
+<ul class="logo-list">
+  <li>!images/slogan.png(Slogan)!</li>
+  <li>!images/footprint_slating.png(Slogan)!</li>
+</ul>
+

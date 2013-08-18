@@ -1,0 +1,33 @@
+---
+layout: master
+title: Contact us
+---
+
+<div>
+  <div style="float: left; padding-right: 20px;">
+
+<iframe src="http://maps.google.com/maps/ms?msid=202822275091670463128.0004c0714ce39bf280b3b&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;ll=10.765531,78.687292&amp;spn=0,0&amp;output=embed" height="350" width="425" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<small>View <a style="color: #0000ff; text-align: left;" href="http://maps.google.com/maps/ms?msid=202822275091670463128.0004c0714ce39bf280b3b&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;ll=10.765531,78.687292&amp;spn=0,0&amp;source=embed">Corvid Systems</a> in a larger map</small>
+
+  </div>
+  <div style="float: left; padding-top: 20px">
+{% highlight text %}
+Corvid Systems
+
+13, Bharathi Street, 
+Amman Nagar,
+Trichy - 620021, 
+Tamil Nadu, India
+
+Phone : +91-431-2459208
+{% endhighlight %}
+
+Please feel free to drop us a mail at <a href="mailto:support@corvidsystems.com">support@corvidsystems.com</a>     
+  </div>
+  <div class="clear">
+  </div>
+</div>
+
+
+
+
