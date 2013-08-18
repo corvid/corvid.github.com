@@ -3,8 +3,9 @@ layout: master
 title: Home
 ---
 
-<ul class="logo-list">
-  <li>!images/slogan.png(Slogan)!</li>
-  <li>!images/footprint_slating.png(Slogan)!</li>
-</ul>
+<div style="width: 100%; padding-left: 50px">
+  <div style="float: left; ">!images/slogan.png(Slogan)!</div>
+  <div style="float: left; padding-top: 80px">!images/footprint_slating.png(Slogan)!</div>
+  <div style="clear: both"></div>
+</div>
 
