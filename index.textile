@@ -1,9 +1,10 @@
 ---
 layout: master
 title: Home
+meta-description: A new software development company from India doing product development and services for manufacturing and engineering companies.
 ---
 
-<div style="width: 100%; padding-left: 50px">
+<div style="width: 100%; padding-left: 50px;padding-bottom: 50px">
   <div style="float: left; ">!images/slogan.png(Slogan)!</div>
   <div style="float: left; padding-top: 80px">!images/footprint_slating.png(Slogan)!</div>
   <div style="clear: both"></div>

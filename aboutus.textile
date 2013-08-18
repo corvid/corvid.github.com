@@ -1,6 +1,7 @@
 ---
 layout: master
 title: About us
+meta-description: We are a group of dedicated software enthusiasts, who gained several years of strong professional experience in the field of software development from major multinational software companies around the world.
 ---
 
 We are a group of dedicated software enthusiasts, who gained several years of strong professional experience in the field of software development from major multinational software companies around the world.
@@ -14,7 +15,7 @@ We are a group of dedicated software enthusiasts, who gained several years of st
 <div style="clear: both;">
 </div>
 
-We do product development and services for Manufacturing Engineering Industries, Energy sector and Engineering Design. For most of the products we use the following technologies and recommend the same to you as well.
+We do product development and services for manufacturing and engineering companies, primarily in energy sector. For most of the products, we use the following technologies and recommend the same to you as well.
 
 <ul class="logo-list">
 <li>

@@ -1,6 +1,7 @@
 ---
 layout: master
 title: Contact us
+meta-description: Corvid Systems head office is in Trichy, India. A small city in central Tamil Nadu. Once the capital of the early Chola dynasty.
 ---
 
 <div>
