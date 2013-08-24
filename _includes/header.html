@@ -58,6 +58,17 @@
 									<a href="/aboutus.html">About us</a>
 								</li>
 							</ul>
+							
+              <form method="get" class="searchform" action="/search.html">
+                <fieldset>
+                  <input type="text" value="Search" name="q" class="searchfield"
+                    onfocus="if (this.value == 'Search') {this.value = '';}"
+                    onblur="if (this.value == '') {this.value = 'Search';}" /> 
+                    <input
+                    type="image" class="submit btn" name="submit"
+                    src="/css/images/search-btn.png" alt="Go" />
+                </fieldset>
+              </form>
 
 						</div>
 

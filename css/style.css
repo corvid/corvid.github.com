@@ -552,7 +552,7 @@ body #wp-admin-bar #admin-bar-logo {
 .searchform {
     margin: 3px auto 0;
     position: relative;
-    width: 245px;
+    /*width: 245px;*/
 }
 #header .searchform {
     float: right;
@@ -1212,4 +1212,18 @@ p, .p {
 h2.notfound-splash {
     font-size: 8em;
     border: none !important;
+}
+.hidden {
+  display: none;
+}
+
+.billboard h2.center {
+  border: none !important;
+  margin-bottom: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.billboard p.center {
+  text-align: center !important;
+  margin-top: 0px !important;;
 }
