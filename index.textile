@@ -4,9 +4,15 @@ title: Home
 meta-description: A new software development company from India doing product development and services for manufacturing and engineering companies.
 ---
 
-<div style="width: 100%; padding-left: 50px;padding-bottom: 50px">
-  <div style="float: left; ">!images/slogan.png(Slogan)!</div>
-  <div style="float: left; padding-top: 80px">!images/footprint_slating.png(Slogan)!</div>
+
+
+<div style="width: 100%; padding-left: 0px;padding-bottom: 0px">
+  <div style="float: right; width: 500px; padding-left:20px">!images/inox.jpg(INOX Air Products)!</div>
+  <div style="float: right: width: 300px; padding-left:0px">
+    <p style="font-size: 3.4em; color: #999; line-height: normal; text-align: start !important; text-shadow: 1px 1px #ddd;">**INOX Air Products** Chennai, decided to use our Gas Level Monitoring System for their South India operations.</p>
+  </div>
   <div style="clear: both"></div>
 </div>
+
+
 
